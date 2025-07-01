@@ -1,7 +1,7 @@
-# Drink Suggester
+# Birita Suggester
 
 ## Overview
-The Drink Suggester is a web application that allows users to input a list of ingredients and receive possible drink combinations based on a comprehensive drinks database. This project utilizes a dataset of drinks to suggest creative and delicious drink options.
+The Birita Suggester is a web application that allows users to input a list of ingredients and receive possible drink combinations based on a comprehensive drinks database. This project utilizes a dataset of drinks to suggest creative and delicious drink options.
 
 ## Project Structure
 ```
